@@ -51,11 +51,11 @@ public class TestBowling {
 	}
 	
 	
-	
-	
+	/*
+	@Test
 	public void test_DoesBonusWorkCorrectly() throws BowlingException {
 		
-		BowlingGame bg = new BowlingGame();
+		BowlingGame game = new BowlingGame();
 		
 		assertTrue();
 		
@@ -64,5 +64,5 @@ public class TestBowling {
 		
 		
 	}
-
+*/
 }

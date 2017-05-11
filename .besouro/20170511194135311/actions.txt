@@ -102,3 +102,6 @@ CompilationAction 1494529168682 TestBowling.java
 CompilationAction 1494529168999 TestBowling.java
 EditAction 1494529298400 BowlingGame.java 1073 4 3 0
 EditAction 1494529482134 BowlingGame.java 1035 4 3 0
+RefactoringAction 1494529537607 TestBowling.java REMOVE test_DoesBonusWorkCorrectly() METHOD
+CompilationAction 1494529541410 TestBowling.java
+EditAction 1494529739796 TestBowling.java 1351 5 17 4
