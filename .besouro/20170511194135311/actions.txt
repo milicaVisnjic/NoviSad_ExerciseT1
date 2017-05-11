@@ -76,3 +76,4 @@ EditAction 1494528342471 TestBowling.java 1171 4 8 3
 EditAction 1494528352875 Frame.java 845 6 10 0
 RefactoringAction 1494528366353 TestBowling.java ADD void test_DoesItAddFrameCorrectly() METHOD
 EditAction 1494528370705 TestBowling.java 1167 5 17 4
+EditAction 1494528490287 Frame.java 836 6 10 0

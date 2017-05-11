@@ -19,8 +19,6 @@ public class Frame {
 	public int score(){
 		//to be implemented
 		int rez_frame=getSecondThrow()+getFirstThrow(); //+bonus
-		
-		
 		return rez_frame;
 	}
 
@@ -34,7 +32,7 @@ public class Frame {
 		return false;
 	}
 	
-	
+
 	//return whether a frame is a spare or not
 	public boolean isSpare(){
 		if((firstThrow + secondThrow)==10)
