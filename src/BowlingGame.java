@@ -10,6 +10,8 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	
+	private int bonuss;
+	
 	
 	public BowlingGame(){}
 	
@@ -24,6 +26,14 @@ public class BowlingGame {
 	
 	// Sets the bonus throws at the end of the game
 	public void setBonus(int firstThrow, int secondThrow) {
+		
+		for(int i=0;i<10;i++)
+		{
+			if(bonus.isSpare())
+			{
+				bonuss=frames.get(i).score(); //(i+1)
+			}
+		}
 		
 	}
 	
