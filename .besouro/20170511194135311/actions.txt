@@ -9,3 +9,4 @@ RefactoringAction 1494526488522 TestBowling.java RENAME test_=>void test_is FIEL
 RefactoringAction 1494526497540 TestBowling.java RENAME test_is=>void test_isSpare() METHOD
 RefactoringAction 1494526537130 TestBowling.java RENAME test_isSpare()=>void test_isStrike() METHOD
 EditAction 1494526784871 TestBowling.java 414 2 4 1
+EditAction 1494526802752 BowlingGame.java 731 4 2 0
