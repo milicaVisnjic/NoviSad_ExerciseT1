@@ -18,5 +18,13 @@ public class TestBowling {
 		assertTrue("It is strike", frame.isStrike());
 		
 	}
+	
+	@Test
+	public void test_isSpare() throws BowlingException {
+		
+		Frame frame = new Frame(5,5);
+		assertTrue("It is spare", frame.isSpare());
+		
+	}
 
 }

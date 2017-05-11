@@ -20,3 +20,6 @@ UnitTestCaseAction 1494526851628 TestBowling.java FAIL
 UnitTestSessionAction 1494526851629 TestBowling.java FAIL
 EditAction 1494526862181 TestBowling.java 374 2 3 1
 EditAction 1494526879329 Frame.java 845 6 10 0
+RefactoringAction 1494526898805 TestBowling.java ADD void test FIELD
+RefactoringAction 1494526906348 TestBowling.java ADD void isSpare() METHOD
+EditAction 1494526969172 TestBowling.java 532 3 5 2
