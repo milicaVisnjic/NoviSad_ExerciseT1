@@ -18,7 +18,8 @@ public class Frame {
 	//returns the score of a single frame
 	public int score(){
 		//to be implemented
-		int rez_frame=getSecondThrow()+getFirstThrow();
+		int rez_frame=getSecondThrow()+getFirstThrow(); //+bonus
+		
 		
 		return rez_frame;
 	}
