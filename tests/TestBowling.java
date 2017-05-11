@@ -24,7 +24,13 @@ public class TestBowling {
 		
 		Frame frame = new Frame(5,5);
 		assertTrue("It is spare", frame.isSpare());
+	}
+	
+	public void test_IsTheFrameResultCorrectlyCounted() throws BowlingException {
 		
+		Frame frame = new Frame(3,6);
+		int expectedResult=9;
+		assertEquals("Incorrect when", expectedResult, frame.score());
 	}
 
 }
