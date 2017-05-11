@@ -35,12 +35,11 @@ public class BowlingGame {
 			}
 			else if(bonus.isStrike())
 			{
-				bonuss=frames.get(i+2).score(); // i+2 je bonus srusen u sledeca dva bacanja
+				bonuss=frames.get(i+1).getFirstThrow() + frames.get(i+1).getSecondThrow(); // i+2 je bonus srusen u sledeca dva bacanja
 			}
 		}
 		
 	}
-	
 	
 	
 	// Returns the game score

@@ -96,3 +96,8 @@ RefactoringAction 1494528972625 TestBowling.java ADD void test_DoesItAddFrameCor
 EditAction 1494528982699 TestBowling.java 1334 6 19 5
 CompilationAction 1494528996642 TestBowling.java
 EditAction 1494529135018 BowlingGame.java 1033 4 3 0
+RefactoringAction 1494529158801 TestBowling.java REMOVE test_DoesItAddFrameCorrectly() METHOD
+RefactoringAction 1494529168321 TestBowling.java ADD void test_DoesItAddFrameCorrectly() METHOD
+CompilationAction 1494529168682 TestBowling.java
+CompilationAction 1494529168999 TestBowling.java
+EditAction 1494529298400 BowlingGame.java 1073 4 3 0
