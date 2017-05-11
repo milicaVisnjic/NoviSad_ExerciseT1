@@ -31,11 +31,11 @@ public class BowlingGame {
 		{
 			if(bonus.isSpare())
 			{
-				bonuss=frames.get(i+1).score(); //i+1 je bonus srusen u narednom bacanju
+				bonuss=frames.get(i+1).score(); 
 			}
 			else if(bonus.isStrike())
 			{
-				bonuss=frames.get(i+1).getFirstThrow() + frames.get(i+1).getSecondThrow(); // i+2 je bonus srusen u sledeca dva bacanja
+				bonuss=frames.get(i+1).getFirstThrow() + frames.get(i+1).getSecondThrow(); 
 			}
 		}
 		
@@ -45,6 +45,6 @@ public class BowlingGame {
 	// Returns the game score
 	public int score(){
 		//to be implemented: should return game score 
-		return 0;
+		return bonus.getFirstThrow() + bonus.getSecondThrow(); 
 	}
 }
