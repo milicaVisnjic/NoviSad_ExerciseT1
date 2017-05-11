@@ -73,3 +73,4 @@ RefactoringAction 1494528235396 BowlingException.java REMOVE BowlingException(St
 EditAction 1494528237494 BowlingException.java 59 0 0 0
 RefactoringAction 1494528331282 TestBowling.java REMOVE test_DoesItAddFrameCorrectly() METHOD
 EditAction 1494528342471 TestBowling.java 1171 4 8 3
+EditAction 1494528352875 Frame.java 845 6 10 0
