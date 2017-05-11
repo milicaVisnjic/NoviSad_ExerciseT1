@@ -33,5 +33,19 @@ public class TestBowling {
 		int expectedResult=9;
 		assertEquals("Incorrect when expectedResult is 9", expectedResult, frame.score());
 	}
+	
+	@Test
+	public void test_DoesItAddFrameCorrectly() throws BowlingException {
+		
+		BowlingGame game = new BowlingGame();
+		Frame frame=new Frame(2,3);
+		Frame frame1=new Frame(6,2);
+		Frame frame2=new Frame(1,2);
+		game.addFrame(frame);
+		game.addFrame(frame1);
+		game.addFrame(frame2);
+		int expectedNumberOfFrames=3;
+		assertEquals("", expectedNumberOfFrames, 3);
+	}
 
 }
