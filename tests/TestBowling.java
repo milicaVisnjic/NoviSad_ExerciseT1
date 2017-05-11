@@ -33,7 +33,7 @@ public class TestBowling {
 		int expectedResult=9;
 		assertEquals("Incorrect when expectedResult is 9", expectedResult, frame.score());
 	}
-	
+	/*
 	@Test
 	public void test_DoesItAddFrameCorrectly() throws BowlingException {
 		
@@ -47,5 +47,6 @@ public class TestBowling {
 		int expectedNumberOfFrames=3;
 		assertEquals("Incorrect", expectedNumberOfFrames, 3);
 	}
+	*/
 
 }
