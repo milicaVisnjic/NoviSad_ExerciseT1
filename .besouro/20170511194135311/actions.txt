@@ -92,3 +92,5 @@ RefactoringAction 1494528911540 TestBowling.java RENAME test_DoesBonusWork()=>vo
 RefactoringAction 1494528913549 TestBowling.java RENAME test_DoesBonusWorkCorre()=>void test_DoesBonusWorkCorrectly() METHOD
 RefactoringAction 1494528948582 TestBowling.java REMOVE test_DoesItAddFrameCorrectly() METHOD
 EditAction 1494528956133 Frame.java 839 6 10 0
+RefactoringAction 1494528972625 TestBowling.java ADD void test_DoesItAddFrameCorrectly() METHOD
+EditAction 1494528982699 TestBowling.java 1334 6 19 5
