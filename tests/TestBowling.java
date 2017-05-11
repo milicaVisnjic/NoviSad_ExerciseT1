@@ -26,6 +26,7 @@ public class TestBowling {
 		assertTrue("It is spare", frame.isSpare());
 	}
 	
+	@Test
 	public void test_IsTheFrameResultCorrectlyCounted() throws BowlingException {
 		
 		Frame frame = new Frame(3,6);
