@@ -22,6 +22,7 @@ public class Frame {
 		return rez_frame;
 	}
 
+	
 	//returns whether the frame is a strike or not
 	public boolean isStrike(){
 		//to be implemented

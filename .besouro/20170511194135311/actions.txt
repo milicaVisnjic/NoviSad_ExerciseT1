@@ -78,3 +78,17 @@ RefactoringAction 1494528366353 TestBowling.java ADD void test_DoesItAddFrameCor
 EditAction 1494528370705 TestBowling.java 1167 5 17 4
 EditAction 1494528490287 Frame.java 836 6 10 0
 EditAction 1494528734421 BowlingGame.java 874 4 3 0
+RefactoringAction 1494528760172 TestBowling.java ADD void test_ FIELD
+RefactoringAction 1494528765185 TestBowling.java RENAME test_=>void test_Does FIELD
+RefactoringAction 1494528784208 TestBowling.java RENAME test_Does=>void test_Bonus FIELD
+RefactoringAction 1494528785217 TestBowling.java RENAME test_Bonus=>void test_Bonus() METHOD
+RefactoringAction 1494528787728 TestBowling.java RENAME test_Bonus()=>void test_ FIELD
+RefactoringAction 1494528789737 TestBowling.java RENAME test_=>void test_Does FIELD
+RefactoringAction 1494528791247 TestBowling.java RENAME test_Does=>void test_DoesI FIELD
+RefactoringAction 1494528792757 TestBowling.java RENAME test_DoesI=>void test_Does FIELD
+RefactoringAction 1494528798268 TestBowling.java RENAME test_Does=>void test_DoesBonusWorks() METHOD
+RefactoringAction 1494528908029 TestBowling.java RENAME test_DoesBonusWorks()=>void test_DoesBonusWork() METHOD
+RefactoringAction 1494528911540 TestBowling.java RENAME test_DoesBonusWork()=>void test_DoesBonusWorkCorre() METHOD
+RefactoringAction 1494528913549 TestBowling.java RENAME test_DoesBonusWorkCorre()=>void test_DoesBonusWorkCorrectly() METHOD
+RefactoringAction 1494528948582 TestBowling.java REMOVE test_DoesItAddFrameCorrectly() METHOD
+EditAction 1494528956133 Frame.java 839 6 10 0
