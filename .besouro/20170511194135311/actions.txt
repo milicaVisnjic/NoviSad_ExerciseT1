@@ -37,3 +37,6 @@ RefactoringAction 1494527073252 TestBowling.java RENAME test_IsTheFrameResultCor
 EditAction 1494527113957 BowlingGame.java 728 4 2 0
 EditAction 1494527219762 TestBowling.java 743 4 8 3
 EditAction 1494527235037 TestBowling.java 751 4 8 3
+UnitTestCaseAction 1494527249351 TestBowling.java FAIL
+UnitTestSessionAction 1494527249353 TestBowling.java FAIL
+EditAction 1494527277348 TestBowling.java 771 4 8 3

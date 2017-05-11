@@ -31,7 +31,7 @@ public class TestBowling {
 		
 		Frame frame = new Frame(3,6);
 		int expectedResult=9;
-		assertEquals("Incorrect when", expectedResult, frame.score());
+		assertEquals("Incorrect when expectedResult is 9", expectedResult, frame.score());
 	}
 
 }
