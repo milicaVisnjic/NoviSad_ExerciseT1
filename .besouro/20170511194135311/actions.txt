@@ -23,3 +23,15 @@ EditAction 1494526879329 Frame.java 845 6 10 0
 RefactoringAction 1494526898805 TestBowling.java ADD void test FIELD
 RefactoringAction 1494526906348 TestBowling.java ADD void isSpare() METHOD
 EditAction 1494526969172 TestBowling.java 532 3 5 2
+UnitTestCaseAction 1494526980701 TestBowling.java FAIL
+UnitTestSessionAction 1494526980702 TestBowling.java FAIL
+RefactoringAction 1494527010101 TestBowling.java ADD void test FIELD
+RefactoringAction 1494527032625 TestBowling.java RENAME test=>void test_ FIELD
+RefactoringAction 1494527053650 TestBowling.java RENAME test_=>void test_I FIELD
+RefactoringAction 1494527054660 TestBowling.java RENAME test_I=>void test_Is FIELD
+RefactoringAction 1494527060209 TestBowling.java RENAME test_Is=>void test_IsTheFrame FIELD
+RefactoringAction 1494527064721 TestBowling.java RENAME test_IsTheFrame=>void test_IsTheFrameResultCorrectly FIELD
+RefactoringAction 1494527068233 TestBowling.java RENAME test_IsTheFrameResultCorrectly=>void test_IsTheFrameResultCorrectlyCou FIELD
+RefactoringAction 1494527069743 TestBowling.java RENAME test_IsTheFrameResultCorrectlyCou=>void test_IsTheFrameResultCorrectlyCounted FIELD
+RefactoringAction 1494527073252 TestBowling.java RENAME test_IsTheFrameResultCorrectlyCounted=>void test_IsTheFrameResultCorrectlyCounted() METHOD
+EditAction 1494527113957 BowlingGame.java 728 4 2 0
