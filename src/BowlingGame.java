@@ -31,7 +31,11 @@ public class BowlingGame {
 		{
 			if(bonus.isSpare())
 			{
-				bonuss=frames.get(i).score(); //(i+1)
+				bonuss=frames.get(i+1).score(); //i+1 je bonus srusen u narednom bacanju
+			}
+			else if(bonus.isStrike())
+			{
+				bonuss=frames.get(i+2).score(); // i+2 je bonus srusen u sledeca dva bacanja
 			}
 		}
 		
