@@ -51,3 +51,8 @@ RefactoringAction 1494527451400 TestBowling.java RENAME test_DoesItAdd=>void tes
 RefactoringAction 1494527454409 TestBowling.java RENAME test_DoesItAddFrameCorr=>void test_DoesItAddFrameCorrectly FIELD
 RefactoringAction 1494527455919 TestBowling.java RENAME test_DoesItAddFrameCorrectly=>void test_DoesItAddFrameCorrectly() METHOD
 EditAction 1494527877621 TestBowling.java 1155 5 17 4
+UnitTestCaseAction 1494527890535 TestBowling.java FAIL
+UnitTestCaseAction 1494527890536 TestBowling.java FAIL
+UnitTestSessionAction 1494527890537 TestBowling.java FAIL
+UnitTestSessionAction 1494527890539 TestBowling.java FAIL
+EditAction 1494527965612 TestBowling.java 1164 5 17 4

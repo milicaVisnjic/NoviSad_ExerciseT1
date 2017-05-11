@@ -45,7 +45,7 @@ public class TestBowling {
 		game.addFrame(frame1);
 		game.addFrame(frame2);
 		int expectedNumberOfFrames=3;
-		assertEquals("", expectedNumberOfFrames, 3);
+		assertEquals("Incorrect", expectedNumberOfFrames, 3);
 	}
 
 }
