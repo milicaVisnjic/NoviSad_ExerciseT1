@@ -69,3 +69,5 @@ RefactoringAction 1494528057743 BowlingGame.java RENAME bonus/2=>int bonuss FIEL
 RefactoringAction 1494528196318 BowlingException.java ADD BowlingException() METHOD
 RefactoringAction 1494528204839 BowlingException.java RENAME BowlingException()=>BowlingException(String) METHOD
 EditAction 1494528214422 BowlingException.java 127 1 1 0
+RefactoringAction 1494528235396 BowlingException.java REMOVE BowlingException(String) METHOD
+EditAction 1494528237494 BowlingException.java 59 0 0 0
