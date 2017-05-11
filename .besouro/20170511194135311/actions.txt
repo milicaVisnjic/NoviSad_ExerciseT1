@@ -10,3 +10,12 @@ RefactoringAction 1494526497540 TestBowling.java RENAME test_is=>void test_isSpa
 RefactoringAction 1494526537130 TestBowling.java RENAME test_isSpare()=>void test_isStrike() METHOD
 EditAction 1494526784871 TestBowling.java 414 2 4 1
 EditAction 1494526802752 BowlingGame.java 731 4 2 0
+CompilationAction 1494526816104 BowlingGame.java
+CompilationAction 1494526816105 BowlingGame.java
+CompilationAction 1494526823479 BowlingGame.java
+CompilationAction 1494526823480 BowlingGame.java
+UnitTestCaseAction 1494526827279 TestBowling.java FAIL
+UnitTestSessionAction 1494526827282 TestBowling.java FAIL
+UnitTestCaseAction 1494526851628 TestBowling.java FAIL
+UnitTestSessionAction 1494526851629 TestBowling.java FAIL
+EditAction 1494526862181 TestBowling.java 374 2 3 1
