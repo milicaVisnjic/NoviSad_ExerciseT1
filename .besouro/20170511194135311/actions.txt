@@ -1,0 +1,5 @@
+FileOpenedAction 1494524495817 BowlingException.java 58 0 0 0
+RefactoringAction 1494524986716 BowlingGame.java ADD int bon FIELD
+RefactoringAction 1494524988231 BowlingGame.java RENAME bon=>int bonusi FIELD
+RefactoringAction 1494524994760 BowlingGame.java REMOVE bonusi FIELD
+EditAction 1494525846314 Frame.java 825 6 10 0
